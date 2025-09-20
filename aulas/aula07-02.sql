@@ -11,4 +11,4 @@ SELECT * FROM cursos;
 TRUNCATE cursos;
 
 # Verifica se os registros foram apagados
-SELECT * FROM cursos;  
+SELECT * FROM cursos; 
